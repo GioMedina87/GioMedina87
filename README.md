@@ -16,7 +16,7 @@ A custom-built chatbot hosted on GitHub Pages, designed to assist with HVAC-rela
 ---
 
 ### 🤖 **AI Chatbots — Multiple Projects**
-Designed, built, and deployed several AI chatbots including conversational systems modeled after real recruiter-style assistants.  
+Designed, built, and deployed several AI chatbots including conversational systems modeled after real recruiter-style conversational workflows.  
 🛠️ **Tech:** HTML, CSS, JavaScript, prompt engineering, GitHub Pages, testing workflows  
 📌 Focus on improving accuracy, fixing inconsistencies, and enhancing user experience.
 
@@ -44,7 +44,7 @@ Built dynamic visuals such as fans, sensors, ductwork, and interactive color-log
 
 - AI chatbot design & deployment (GitHub Pages)
 - Prompt engineering & conversational flow
-- QA-style testing & debugging of AI output
+- QA-style testing & debugging of AI behavior
 - Software troubleshooting (Windows, macOS, mobile devices)
 - Python, C++, Java, JavaScript, HTML, CSS
 - Microsoft Visio (ShapeSheet logic, diagrams)
