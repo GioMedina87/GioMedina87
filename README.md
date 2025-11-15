@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="" alt="GioTech Banner" width="100%">
+</p>
+
+
 # 👋 Hi, I'm Eduardo Giovani Medina (Gio)
 
 Welcome to my GitHub!  
