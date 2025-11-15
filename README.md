@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ChatGPT_Image_Nov_15_2025_12_40_31_AM.png"
+  <img src="giotech_banner.png"
     (https://github.com/GioMedina87/GioMedina87/blob/main/ChatGPT%20Image%20Nov%2015%2C%202025%2C%2012_40_31%20AM.png)" width="100%" />
 </p>
 
