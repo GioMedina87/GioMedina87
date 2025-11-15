@@ -47,24 +47,6 @@ HTML, CSS, JavaScript, behavioral/STAR logic, prompt engineering
 
 ---
 
-## 🧑‍💼 Employee Management System  
-A Java-based console program that manages employee records using ArrayLists.
-
-🔗 **Repository:**  
-https://github.com/GioMedina87/EmployeeManagementSystem
-
-🛠 **Tech:**  
-Java, OOP, ArrayLists, CRUD operations
-
-✨ **Features:**  
-- Add employee  
-- Remove employee  
-- List all employees  
-- Salary tracking  
-- Basic reporting  
-
----
-
 ## 🧑‍💼 Employee Management System (Web Version)
 JavaScript version of the employee manager with a clean UI and CSV export.
 
