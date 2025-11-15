@@ -1,7 +1,21 @@
 <p align="center">
-  <img src="https://github.com/GioMedina87/GioMedina87/blob/main/ChatGPT%20Image%20Nov%2015%2C%202025%2C%2012_40_31%20AM.png" alt="GioTech Banner" width="100%">
+  <img src="ChatGPT_Image_Nov_15_2025_12_40_31_AM.png" width="100%" />
 </p>
 
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Welcome+to+GioTech+Tools!;AI+Chatbots+•+Automation+Tools+•+HVAC+Tech;Tech+Troubleshooting+%26+Building+AI+Tools" 
+    alt="GioTech typing animation" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=0ea5e9&height=2&section=header&animation=fadeIn" 
+    width="60%" 
+    alt="GioTech divider" 
+  />
+</p>
 
 # 👋 Hi, I'm Eduardo Giovani Medina (Gio)
 
