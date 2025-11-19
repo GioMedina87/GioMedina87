@@ -1,3 +1,36 @@
+<p align="center">
+  <img src="giotech_banner.png"
+    (https://github.com/GioMedina87/GioMedina87/blob/main/ChatGPT%20Image%20Nov%2015%2C%202025%2C%2012_40_31%20AM.png)" width="100%" />
+</p>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Welcome+to+GioTech+Tools!;AI+Chatbots+•+Automation+Tools+•+HVAC+Tech;Tech+Troubleshooting+%26+Building+AI+Tools" 
+    alt="GioTech typing animation" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=0ea5e9&height=2&section=header&animation=fadeIn" 
+    width="60%" 
+    alt="GioTech divider" 
+  />
+</p>
+
+# 👋 Hi, I'm Eduardo Giovani Medina (Gio)
+
+Welcome to my GitHub!  
+I'm a motivated technical professional focused on **AI chatbot development**, **software testing**, **HVAC/BAS automation fundamentals**, and **interactive tool development**.
+
+I build real, deployable tools — AI agents, troubleshooting assistants, interview simulators, and employee management systems — all under my growing portfolio brand:
+
+## 🤖 **GioTech Tools**
+
+---
+
+# 🚀 Featured Projects
+
 <!-- ======================= -->
 <!-- ⭐️ GloTech MiniGPT — NEW PROJECT #1 ⭐️ -->
 <!-- ======================= -->
@@ -46,39 +79,6 @@
 </p>
 
 <!-- END OF NEW PROJECT #1 -->
-
-<p align="center">
-  <img src="giotech_banner.png"
-    (https://github.com/GioMedina87/GioMedina87/blob/main/ChatGPT%20Image%20Nov%2015%2C%202025%2C%2012_40_31%20AM.png)" width="100%" />
-</p>
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Welcome+to+GioTech+Tools!;AI+Chatbots+•+Automation+Tools+•+HVAC+Tech;Tech+Troubleshooting+%26+Building+AI+Tools" 
-    alt="GioTech typing animation" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&color=0ea5e9&height=2&section=header&animation=fadeIn" 
-    width="60%" 
-    alt="GioTech divider" 
-  />
-</p>
-
-# 👋 Hi, I'm Eduardo Giovani Medina (Gio)
-
-Welcome to my GitHub!  
-I'm a motivated technical professional focused on **AI chatbot development**, **software testing**, **HVAC/BAS automation fundamentals**, and **interactive tool development**.
-
-I build real, deployable tools — AI agents, troubleshooting assistants, interview simulators, and employee management systems — all under my growing portfolio brand:
-
-## 🤖 **GioTech Tools**
-
----
-
-# 🚀 Featured Projects
 
 ## 🤖 GioTech HVAC Chatbot (Live Demo)
 A custom-built HVAC troubleshooting assistant designed to diagnose common issues like no cooling, no heat, thermostat failures, and abnormal noise.
