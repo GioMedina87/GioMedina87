@@ -1,3 +1,52 @@
+<!-- ======================= -->
+<!-- ⭐️ GloTech MiniGPT — NEW PROJECT #1 ⭐️ -->
+<!-- ======================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff5e00&section=header&height=65&text=🔥%20GioTech%20MiniGPT%20🔥&fontSize=32&fontColor=ffffff&animation=fadeIn" alt="GioTech MiniGPT Banner" />
+</p>
+
+<p align="center">
+  <b>A full-stack AI assistant built by Eduardo Giovani Medina (Gio)</b><br/>
+  Frontend • Custom UI/UX • Render Backend • OpenAI-powered
+</p>
+
+---
+
+### 🚀 **Live Demo**
+<p align="center">
+  <a href="https://giomedina87.github.io/GioTech_MiniGPT/" target="_blank">
+    👉 <b>Click here to open GioTech MiniGPT</b>  
+  </a>
+</p>
+
+---
+
+### 🧠 **What it includes**
+- Animated boot screen (“Render waking up 😴⚡️”)
+- Neon GioTech UI (Cyan + Blood-Orange)
+- Glowing buttons + gradient chat bubbles  
+- Weather / Time / Date smart button  
+- Full chat system with backend API  
+- Custom typing animation  
+- Mobile-responsive UI  
+
+---
+
+### 🛠 **Tech Stack**
+- **Frontend:** HTML • CSS • JavaScript  
+- **Backend:** Node.js on Render  
+- **API:** OpenAI  
+- **Design:** GioTech color theme + custom gradients  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a2540&section=footer&height=2" alt="divider"/>
+</p>
+
+<!-- END OF NEW PROJECT #1 -->
+
 <p align="center">
   <img src="giotech_banner.png"
     (https://github.com/GioMedina87/GioMedina87/blob/main/ChatGPT%20Image%20Nov%2015%2C%202025%2C%2012_40_31%20AM.png)" width="100%" />
